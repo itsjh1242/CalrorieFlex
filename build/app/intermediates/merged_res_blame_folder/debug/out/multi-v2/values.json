@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/itsjh/StudioProjects/calrorieFlex/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/itsjh/StudioProjects/github/CalrorieFlex/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/itsjh/.gradle/caches/transforms-3/aa701b47cec244085d46a1a42fcc7fb9/transformed/core-1.6.0/res/values/values.xml",
@@ -42,6 +42,25 @@
                     }
                 },
                 {
+                    "source": "/Users/itsjh/StudioProjects/github/CalrorieFlex/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "137,142",
+                        "startColumns": "4,4",
+                        "startOffsets": "9987,10295",
+                        "endLines": "141,144",
+                        "endColumns": "12,12",
+                        "endOffsets": "10290,10459"
+                    }
+                },
+                {
                     "source": "/Users/itsjh/.gradle/caches/transforms-3/19a0dfd4021b70333b258b23187eb758/transformed/jetified-play-services-basement-18.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "4,7",
@@ -78,7 +97,7 @@
                     }
                 },
                 {
-                    "source": "/Users/itsjh/StudioProjects/calrorieFlex/build/app/generated/res/google-services/debug/values/values.xml",
+                    "source": "/Users/itsjh/StudioProjects/github/CalrorieFlex/build/app/generated/res/google-services/debug/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -92,25 +111,6 @@
                         "startOffsets": "8973,9332,9414,9518,9627,9747,9843",
                         "endColumns": "143,81,103,108,119,95,72",
                         "endOffsets": "9112,9409,9513,9622,9742,9838,9911"
-                    }
-                },
-                {
-                    "source": "/Users/itsjh/StudioProjects/calrorieFlex/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "137,142",
-                        "startColumns": "4,4",
-                        "startOffsets": "9987,10295",
-                        "endLines": "141,144",
-                        "endColumns": "12,12",
-                        "endOffsets": "10290,10459"
                     }
                 },
                 {

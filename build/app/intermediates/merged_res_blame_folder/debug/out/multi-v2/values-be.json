@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/itsjh/StudioProjects/calrorieFlex/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
+            "outputFile": "/Users/itsjh/StudioProjects/github/CalrorieFlex/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
             "map": [
                 {
                     "source": "/Users/itsjh/.gradle/caches/transforms-3/19fea4fb28dedd992824e13cc158e7a1/transformed/jetified-play-services-base-18.0.1/res/values-be/values.xml",

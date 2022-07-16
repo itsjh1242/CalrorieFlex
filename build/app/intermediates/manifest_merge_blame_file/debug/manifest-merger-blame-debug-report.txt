@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/Users/itsjh/StudioProjects/calrorieFlex/android/app/src/debug/AndroidManifest.xml:7:5-66
-15-->/Users/itsjh/StudioProjects/calrorieFlex/android/app/src/debug/AndroidManifest.xml:7:22-64
+15-->/Users/itsjh/StudioProjects/github/CalrorieFlex/android/app/src/debug/AndroidManifest.xml:7:5-66
+15-->/Users/itsjh/StudioProjects/github/CalrorieFlex/android/app/src/debug/AndroidManifest.xml:7:22-64
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 16-->[com.google.firebase:firebase-auth:21.0.6] /Users/itsjh/.gradle/caches/transforms-3/166ab2ef700e025f6aeb6427bb5b0835/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:24:5-79
 16-->[com.google.firebase:firebase-auth:21.0.6] /Users/itsjh/.gradle/caches/transforms-3/166ab2ef700e025f6aeb6427bb5b0835/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:24:22-76
@@ -69,31 +69,31 @@
 58            android:value="2" />
 59
 60        <service
-60-->[:firebase_auth] /Users/itsjh/StudioProjects/calrorieFlex/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
+60-->[:firebase_auth] /Users/itsjh/StudioProjects/github/CalrorieFlex/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-14:19
 61            android:name="com.google.firebase.components.ComponentDiscoveryService"
-61-->[:firebase_auth] /Users/itsjh/StudioProjects/calrorieFlex/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
+61-->[:firebase_auth] /Users/itsjh/StudioProjects/github/CalrorieFlex/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:18-89
 62            android:directBootAware="true"
 62-->[com.google.firebase:firebase-common:20.1.1] /Users/itsjh/.gradle/caches/transforms-3/fccaa6a289edc53f66333a729d5bb147/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:35:13-43
 63            android:exported="false" >
 63-->[com.google.firebase:firebase-auth:21.0.6] /Users/itsjh/.gradle/caches/transforms-3/166ab2ef700e025f6aeb6427bb5b0835/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:66:13-37
 64            <meta-data
-64-->[:firebase_auth] /Users/itsjh/StudioProjects/calrorieFlex/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+64-->[:firebase_auth] /Users/itsjh/StudioProjects/github/CalrorieFlex/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 65                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-65-->[:firebase_auth] /Users/itsjh/StudioProjects/calrorieFlex/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+65-->[:firebase_auth] /Users/itsjh/StudioProjects/github/CalrorieFlex/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
 66                android:value="com.google.firebase.components.ComponentRegistrar" />
-66-->[:firebase_auth] /Users/itsjh/StudioProjects/calrorieFlex/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+66-->[:firebase_auth] /Users/itsjh/StudioProjects/github/CalrorieFlex/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 67            <meta-data
-67-->[:cloud_firestore] /Users/itsjh/StudioProjects/calrorieFlex/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+67-->[:cloud_firestore] /Users/itsjh/StudioProjects/github/CalrorieFlex/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 68                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-68-->[:cloud_firestore] /Users/itsjh/StudioProjects/calrorieFlex/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-134
+68-->[:cloud_firestore] /Users/itsjh/StudioProjects/github/CalrorieFlex/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-134
 69                android:value="com.google.firebase.components.ComponentRegistrar" />
-69-->[:cloud_firestore] /Users/itsjh/StudioProjects/calrorieFlex/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+69-->[:cloud_firestore] /Users/itsjh/StudioProjects/github/CalrorieFlex/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 70            <meta-data
-70-->[:firebase_core] /Users/itsjh/StudioProjects/calrorieFlex/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
+70-->[:firebase_core] /Users/itsjh/StudioProjects/github/CalrorieFlex/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-13:85
 71                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-71-->[:firebase_core] /Users/itsjh/StudioProjects/calrorieFlex/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+71-->[:firebase_core] /Users/itsjh/StudioProjects/github/CalrorieFlex/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
 72                android:value="com.google.firebase.components.ComponentRegistrar" />
-72-->[:firebase_core] /Users/itsjh/StudioProjects/calrorieFlex/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
+72-->[:firebase_core] /Users/itsjh/StudioProjects/github/CalrorieFlex/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 73            <meta-data
 73-->[com.google.firebase:firebase-auth:21.0.6] /Users/itsjh/.gradle/caches/transforms-3/166ab2ef700e025f6aeb6427bb5b0835/transformed/jetified-firebase-auth-21.0.6/AndroidManifest.xml:67:13-69:85
 74                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
