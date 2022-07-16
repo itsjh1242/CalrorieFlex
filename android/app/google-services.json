@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450416137402",
+    "project_id": "calrorieflex",
+    "storage_bucket": "calrorieflex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450416137402:android:cb09aaab751f451de31e83",
+        "android_client_info": {
+          "package_name": "com.example.project_calrorie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450416137402-g94vifhllcv9fo26pqfv0espgk9897o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQFUjgbQBYnn5CgKSaIjOoJ-LCl7zyydo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450416137402-g94vifhllcv9fo26pqfv0espgk9897o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

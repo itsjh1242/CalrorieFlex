@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">450416137402-g94vifhllcv9fo26pqfv0espgk9897o0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">450416137402</string>
+    <string name="google_api_key" translatable="false">AIzaSyBQFUjgbQBYnn5CgKSaIjOoJ-LCl7zyydo</string>
+    <string name="google_app_id" translatable="false">1:450416137402:android:cb09aaab751f451de31e83</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBQFUjgbQBYnn5CgKSaIjOoJ-LCl7zyydo</string>
+    <string name="google_storage_bucket" translatable="false">calrorieflex.appspot.com</string>
+    <string name="project_id" translatable="false">calrorieflex</string>
+</resources>
